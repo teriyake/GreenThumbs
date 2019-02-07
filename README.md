@@ -1,4 +1,4 @@
-# :zap: :squirrel: :zap: Tri-Co Hackathon 2019 :zap: :squirrel: :zap:
+# :zap: :computer: :zap: Tri-Co Hackathon 2019 :zap: :computer: :zap:
 
 *This is a sample submission repository for Tri-Co Hackathon 2019. You can [fork this repo](https://help.github.com/articles/fork-a-repo/) and use this as a starting point.*
 
