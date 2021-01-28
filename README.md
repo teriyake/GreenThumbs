@@ -4,7 +4,7 @@
 
 ## Team Name
 
-*Your name here!*
+*Your name here! & best way to contact you all during the Hack*
 
 ## Team Members
 
