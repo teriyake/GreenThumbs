@@ -11,7 +11,7 @@ Nick D’Andrea (SC ‘25) \
 Ross Elkon (SC ‘25) \
 Sophie Gardiner (HC ‘25) \
 Teri Ke (BMC ‘24) \
-Victor Nault (HC ‘24) \
+Victor Nault (HC ‘24) 
 
 
 ## Project Description
