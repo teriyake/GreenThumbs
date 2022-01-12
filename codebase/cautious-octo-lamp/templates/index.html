@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GreenThumbs</title>
+</head>
+<body>
+<p> Type your Zipcode: </p>
+<form method="post">
+    <input id="zipcode" type="text" name="zipcode" value="00000" pattern="[0-9]{5}"/>
+    <input type="submit">
+</form>
+
+<!-- <p>Result: {{ result }}</p> -->
+<ol>
+      <a href="{{ result1 }}"> <li> {{ result1 }} </li> <\a>
+      <a href="{{ result2 }}"> <li> {{ result2 }} </li> <\a>
+      <a href="{{ result3 }}"> <li> {{ result3 }} </li> <\a>
+      <a href="{{ result4 }}"> <li> {{ result4 }} </li> <\a>
+    </ol>
+
+</body>
+</html>
